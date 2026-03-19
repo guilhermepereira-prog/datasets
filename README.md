@@ -13,3 +13,5 @@ variáveis:
  ```py
  import pandas as pd
 ```
+[Licença Apache 2](LICENCE.txt)
+
